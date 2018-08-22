@@ -8,14 +8,4 @@ The evaluation tool is m2scorer (https://github.com/nusnlp/m2scorer).
 
 If you use the dataset, please cite this paper:
 
-@InProceedings{nlpcc2018,
-author="Zhao, Yuanyuan and Jiang, Nan and Sun, Weiwei and Wan, Xiaojun",
-editor="Zhang, Min and Ng, Vincent and Zhao, Dongyan and Li, Sujian and Zan, Hongying",
-title="Overview of the NLPCC 2018 Shared Task: Grammatical Error Correction",
-booktitle="Natural Language Processing and Chinese Computing",
-year="2018",
-publisher="Springer International Publishing",
-address="Cham",
-pages="439--445",
-isbn="978-3-319-99501-4"
-}
+Yuanyuan Zhao, Nan Jiang, Weiwei Sun and Xiaojun Wan. **Overview of the NLPCC 2018 Shared Task: Grammatical Error Correction.** Natural Language Processing and Chinese Computing (NLPCC 2018).
